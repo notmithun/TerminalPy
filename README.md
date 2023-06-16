@@ -1,17 +1,19 @@
 # TerminalPy
-A Terminal made in python
+A Terminal made in Python
 
 # How Open The File
 First You Have to choose if you want Windows or Linux / MacOS
 
 ## Windows
-First: You Will Have to Download the files
+### First: You Will Have to Download the files
+
+![Readme_1](https://github.com/Mithunhubminepro/TerminalPy/assets/110370009/e9d88246-7099-4ca8-96ac-b2877c52eac0)
 
 Last: Run the TerminalPy.exe file
 
 ## Linux
 
-For System running Ubunut / Debian based-OS
+For Systems running Ubuntu / Debian based-OS
 
 Just open the file.
 
